@@ -1,0 +1,6 @@
+1] cd D: (It help to change Derictory)
+2] ls (it show list of folder in derictory)
+3]
+
+
+ssh-keygen -t ed25519 -C "anandlaturkar43@gmail.com"
